@@ -1,0 +1,56 @@
+[26-Jul-2019 17:34:04 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/learn7sd/public_html/registration/registration.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/learn7sd/public_html/registration/registration.php on line 6
+[26-Jul-2019 17:35:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/learn7sd/public_html/registration/registration.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/learn7sd/public_html/registration/registration.php on line 6
+[26-Jul-2019 17:36:07 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/learn7sd/public_html/registration/registration.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/learn7sd/public_html/registration/registration.php on line 6
+[26-Jul-2019 17:38:04 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/learn7sd/public_html/registration/registration.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/learn7sd/public_html/registration/registration.php on line 6
+[26-Jul-2019 17:38:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/learn7sd/public_html/registration/registration.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/learn7sd/public_html/registration/registration.php on line 6
+[26-Jul-2019 17:44:27 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/learn7sd/public_html/registration/registration.php on line 101
+[26-Jul-2019 17:44:34 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/learn7sd/public_html/registration/registration.php on line 101
+[26-Jul-2019 17:44:47 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/learn7sd/public_html/registration/registration.php on line 101
+[26-Jul-2019 17:48:37 Etc/GMT] PHP Notice:  Undefined index: name in /home/learn7sd/public_html/registration/registration.php on line 14
+[26-Jul-2019 17:48:37 Etc/GMT] PHP Notice:  Undefined index: password in /home/learn7sd/public_html/registration/registration.php on line 15
+[26-Jul-2019 17:48:37 Etc/GMT] PHP Notice:  Undefined index: email in /home/learn7sd/public_html/registration/registration.php on line 16
+[26-Jul-2019 17:48:37 Etc/GMT] PHP Notice:  Undefined index: gender in /home/learn7sd/public_html/registration/registration.php on line 17
+[26-Jul-2019 17:48:37 Etc/GMT] PHP Notice:  Undefined index: institute in /home/learn7sd/public_html/registration/registration.php on line 18
+[26-Jul-2019 17:48:41 Etc/GMT] PHP Notice:  Undefined index: name in /home/learn7sd/public_html/registration/registration.php on line 14
+[26-Jul-2019 17:48:41 Etc/GMT] PHP Notice:  Undefined index: password in /home/learn7sd/public_html/registration/registration.php on line 15
+[26-Jul-2019 17:48:41 Etc/GMT] PHP Notice:  Undefined index: email in /home/learn7sd/public_html/registration/registration.php on line 16
+[26-Jul-2019 17:48:41 Etc/GMT] PHP Notice:  Undefined index: gender in /home/learn7sd/public_html/registration/registration.php on line 17
+[26-Jul-2019 17:48:41 Etc/GMT] PHP Notice:  Undefined index: institute in /home/learn7sd/public_html/registration/registration.php on line 18
+[26-Jul-2019 17:55:27 Etc/GMT] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/learn7sd/public_html/registration/registration.php on line 19
+[26-Jul-2019 17:55:27 Etc/GMT] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/learn7sd/public_html/registration/registration.php on line 19
+[26-Jul-2019 17:55:27 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/learn7sd/public_html/registration/registration.php on line 19
+[26-Jul-2019 17:55:27 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/learn7sd/public_html/registration/registration.php on line 19
+[26-Jul-2019 17:55:27 Etc/GMT] PHP Warning:  Division by zero in /home/learn7sd/public_html/registration/registration.php on line 19
+[26-Jul-2019 17:55:27 Etc/GMT] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/learn7sd/public_html/registration/registration.php on line 19
+[26-Jul-2019 17:55:27 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/learn7sd/public_html/registration/registration.php on line 19
+[26-Jul-2019 17:55:27 Etc/GMT] PHP Warning:  Division by zero in /home/learn7sd/public_html/registration/registration.php on line 19
+[27-Jul-2019 02:49:48 Etc/GMT] PHP Notice:  Undefined index: name in /home/learn7sd/public_html/registration/registration.php on line 14
+[27-Jul-2019 02:49:48 Etc/GMT] PHP Notice:  Undefined index: password in /home/learn7sd/public_html/registration/registration.php on line 15
+[27-Jul-2019 02:49:48 Etc/GMT] PHP Notice:  Undefined index: email in /home/learn7sd/public_html/registration/registration.php on line 16
+[27-Jul-2019 02:49:48 Etc/GMT] PHP Notice:  Undefined index: gender in /home/learn7sd/public_html/registration/registration.php on line 17
+[27-Jul-2019 02:49:48 Etc/GMT] PHP Notice:  Undefined index: institute in /home/learn7sd/public_html/registration/registration.php on line 18
+[27-Jul-2019 03:56:55 Etc/GMT] PHP Notice:  Undefined index: name in /home/learn7sd/public_html/registration/registration.php on line 14
+[27-Jul-2019 03:56:55 Etc/GMT] PHP Notice:  Undefined index: password in /home/learn7sd/public_html/registration/registration.php on line 15
+[27-Jul-2019 03:56:55 Etc/GMT] PHP Notice:  Undefined index: email in /home/learn7sd/public_html/registration/registration.php on line 16
+[27-Jul-2019 03:56:55 Etc/GMT] PHP Notice:  Undefined index: gender in /home/learn7sd/public_html/registration/registration.php on line 17
+[27-Jul-2019 03:56:55 Etc/GMT] PHP Notice:  Undefined index: institute in /home/learn7sd/public_html/registration/registration.php on line 18
+[27-Jul-2019 15:34:19 Etc/GMT] PHP Notice:  Undefined index: name in /home/learn7sd/public_html/registration/registration.php on line 14
+[27-Jul-2019 15:34:19 Etc/GMT] PHP Notice:  Undefined index: password in /home/learn7sd/public_html/registration/registration.php on line 15
+[27-Jul-2019 15:34:19 Etc/GMT] PHP Notice:  Undefined index: email in /home/learn7sd/public_html/registration/registration.php on line 16
+[27-Jul-2019 15:34:19 Etc/GMT] PHP Notice:  Undefined index: gender in /home/learn7sd/public_html/registration/registration.php on line 17
+[27-Jul-2019 15:34:19 Etc/GMT] PHP Notice:  Undefined index: institute in /home/learn7sd/public_html/registration/registration.php on line 18

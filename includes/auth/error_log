@@ -1,0 +1,10 @@
+[28-Jul-2019 14:27:44 Etc/GMT] PHP Notice:  Undefined index: name in /home/learn7sd/public_html/includes/auth/registration.php on line 14
+[28-Jul-2019 14:27:44 Etc/GMT] PHP Notice:  Undefined index: password in /home/learn7sd/public_html/includes/auth/registration.php on line 15
+[28-Jul-2019 14:27:44 Etc/GMT] PHP Notice:  Undefined index: email in /home/learn7sd/public_html/includes/auth/registration.php on line 16
+[28-Jul-2019 14:27:44 Etc/GMT] PHP Notice:  Undefined index: gender in /home/learn7sd/public_html/includes/auth/registration.php on line 17
+[28-Jul-2019 14:27:44 Etc/GMT] PHP Notice:  Undefined index: institute in /home/learn7sd/public_html/includes/auth/registration.php on line 18
+[28-Jul-2019 14:29:41 Etc/GMT] PHP Notice:  Undefined index: name in /home/learn7sd/public_html/includes/auth/registration.php on line 14
+[28-Jul-2019 14:29:41 Etc/GMT] PHP Notice:  Undefined index: password in /home/learn7sd/public_html/includes/auth/registration.php on line 15
+[28-Jul-2019 14:29:41 Etc/GMT] PHP Notice:  Undefined index: email in /home/learn7sd/public_html/includes/auth/registration.php on line 16
+[28-Jul-2019 15:54:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Registration' (T_STRING), expecting ',' or ';' in /home/learn7sd/public_html/includes/auth/registration.php on line 32
+[28-Jul-2019 15:55:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Registration' (T_STRING), expecting ',' or ';' in /home/learn7sd/public_html/includes/auth/registration.php on line 32
