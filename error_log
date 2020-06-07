@@ -1,0 +1,154 @@
+[20-Dec-2019 10:19:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/learn7sd/public_html/isro.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learn7sd/public_html/isro.php on line 25
+[20-Dec-2019 10:22:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/learn7sd/public_html/isro.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learn7sd/public_html/isro.php on line 25
+[20-Dec-2019 10:22:27 Etc/GMT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/learn7sd/public_html/isro.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learn7sd/public_html/isro.php on line 25
+[20-Dec-2019 12:24:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '{' or '$' in /home/learn7sd/public_html/isro.php on line 24
+[20-Dec-2019 12:24:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '{' or '$' in /home/learn7sd/public_html/isro.php on line 24
+[20-Dec-2019 12:26:26 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[20-Dec-2019 12:35:29 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 25
+[20-Dec-2019 12:38:34 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[20-Dec-2019 12:38:36 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 14:37:22 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 15:44:15 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 15:44:33 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:32:24 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:32:46 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:33:39 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:34:02 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:37:15 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:39:11 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:40:08 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:44:45 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:45:34 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:45:57 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:49:30 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:51:31 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 16:59:48 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 17:00:29 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 17:01:10 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 17:13:31 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[21-Dec-2019 17:31:33 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[22-Dec-2019 17:44:40 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[22-Dec-2019 17:45:17 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[22-Dec-2019 18:23:36 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[22-Dec-2019 18:25:55 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 06:15:29 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 06:16:26 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 06:16:35 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 09:52:23 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 18:01:09 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 18:07:02 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 18:12:01 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 18:14:08 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[23-Dec-2019 18:14:56 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 06:09:04 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 06:42:08 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 08:58:08 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 09:21:03 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 09:34:17 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 09:34:26 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 10:01:22 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 11:38:29 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[24-Dec-2019 11:44:49 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 07:43:29 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 07:43:35 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 07:51:59 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 07:57:26 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 08:50:03 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 08:57:29 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 09:03:06 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 09:59:18 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 10:16:22 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 10:16:23 Etc/GMT] PHP Warning:  filesize(): stat failed for https://drive.google.com/open?id=1YjpDfiaGPxP2f7VnUoY_l8h-jFvn4Fuk in /home/learn7sd/public_html/isro.php on line 57
+[26-Dec-2019 10:16:23 Etc/GMT] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/learn7sd/public_html/isro.php on line 57
+[26-Dec-2019 10:16:53 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 10:16:54 Etc/GMT] PHP Warning:  filesize(): stat failed for https://drive.google.com/open?id=1YjpDfiaGPxP2f7VnUoY_l8h-jFvn4Fuk in /home/learn7sd/public_html/isro.php on line 57
+[26-Dec-2019 10:16:54 Etc/GMT] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/learn7sd/public_html/isro.php on line 57
+[26-Dec-2019 10:54:14 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:16:43 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:17:55 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:18:46 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:19:05 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:19:37 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:19:52 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:20:45 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:21:14 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:21:53 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:24:37 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:38:44 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:48:32 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:58:30 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 11:58:42 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 12:00:51 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 12:03:09 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 12:04:27 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 12:05:46 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[26-Dec-2019 16:22:49 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[27-Dec-2019 11:11:04 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 10:30:20 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 10:31:34 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 10:34:27 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 10:34:58 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:11:34 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:12:00 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:12:25 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:15:09 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:15:57 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:23:59 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:31:43 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:32:57 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:33:26 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 27
+[03-Jan-2020 11:39:54 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:39:54 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:39:54 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 11:39:57 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:39:57 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:39:57 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 11:52:34 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:52:34 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:52:34 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 11:52:39 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:52:39 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:52:39 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 11:55:49 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:55:49 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:55:49 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 11:55:54 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:55:54 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:55:54 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 11:56:20 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:56:20 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:56:20 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 11:56:24 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:56:24 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 11:56:24 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 14:32:02 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 14:32:02 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 14:32:02 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 14:32:07 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 14:32:07 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 14:32:07 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 14:32:17 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 14:32:17 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 14:32:17 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 14:32:22 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 14:32:22 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 14:32:22 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 18:02:17 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 18:02:17 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 18:02:17 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 18:06:32 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 18:06:32 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 18:06:32 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 18:06:52 Etc/GMT] PHP Notice:  Undefined variable: x in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 18:06:52 Etc/GMT] PHP Notice:  Undefined variable: y in /home/learn7sd/public_html/isro.php on line 10
+[03-Jan-2020 18:06:52 Etc/GMT] PHP Notice:  Undefined variable: sec in /home/learn7sd/public_html/isro.php on line 26
+[03-Jan-2020 18:07:55 Etc/GMT] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/learn7sd/public_html/list_files.php on line 3
